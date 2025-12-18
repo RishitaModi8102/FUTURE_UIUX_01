@@ -1,4 +1,4 @@
-#🍽️ Restro Bistro App Showcase
+# 🍽️ Restro Bistro App Showcase
 
 🎨 Design Preview with Figma
 

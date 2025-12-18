@@ -1,4 +1,5 @@
-🍽️ Restro Bistro App Showcase
+#🍽️ Restro Bistro App Showcase
+
 🎨 Design Preview with Figma
 
 This repository showcases the Restro Bistro mobile app design, created in Figma. Explore the complete UI/UX flow, visual style, and interactions through the live design file. 🚀
